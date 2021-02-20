@@ -5,7 +5,7 @@ import Welcome from './Welcome';
 const App = (props) =>{
   return(
     <div>
-    <Welcome/>
+    <Welcome name="Ashwani Sharma"/>
     </div>
   )
 }
